@@ -1,0 +1,56 @@
+body{
+     font-family: 'Merriweather', serif;
+     margin: 0%;
+     margin-top: 0%;
+}
+h1{
+     font-size: 50PX;
+}
+h2{
+     font-size: 40px;
+}
+.one{
+     display: flex;
+     margin-bottom: 100px;
+     padding: 10px;
+}
+.four{
+     background-image: url(images/top-banner.png);
+     background-repeat: no-repeat;
+     background-position: right;
+}
+.one img{
+     width: 90%;
+}
+.two{
+     color: orange;
+}
+.three{
+     text-decoration: none;
+     background-image: linear-gradient(rgb(238, 117, 36), rgb(241, 83, 21));
+     color: white;
+     padding: 10px 40px;
+     border-radius: 5px;
+     font-weight: 700;
+}
+.five{
+     background-image: url(images/dream-bg.png);
+     background-repeat: no-repeat;
+     background-position: left center;
+}
+#no{
+     padding: 10px;
+     font-size: 50px;
+}
+.six{
+     box-shadow: 10px 10px 40px gray;
+     border-radius: 10px;
+     width: 40%;
+     margin-left: 5%;
+     margin-right: 5%;
+     padding-left: 20px;
+
+}
+#one{
+     
+}
